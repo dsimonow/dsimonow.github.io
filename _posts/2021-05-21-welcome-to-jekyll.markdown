@@ -3,6 +3,8 @@ layout: post
 title:  "Init!"
 date:   2021-05-21 23:38:33 +0200
 categories: Blog
+tags:
+  - Post Formats
 ---
 The Init Post. After a little push and shove I got a little blog running and not yet sure what will be posted here yet but Github Pages was something I wanted to try out atleast once and
 it does look promising.

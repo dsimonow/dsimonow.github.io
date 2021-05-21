@@ -5,7 +5,7 @@ date:   2021-05-22 00:15:33 +0200
 categories: jekyll update
 ---
 So, die Frage ist. Wie sieht eig. das von Jekyll aus wenn man damit arbeitet. 
-Dafür hab ich mal einen Screen gemacht von meiner VSCode Ansicht!
+Dafür hab ich mal einen Screen gemacht von meiner VSCode Ansicht!  
 ![Jekyll Post in VSCode](../assets/jekyllpost.png)
 
 Wie ihr sehen könnt ist das ganze in 3 Bereiche aufgeteilt:  

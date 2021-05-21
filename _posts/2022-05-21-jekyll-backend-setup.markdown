@@ -2,7 +2,7 @@
 layout: post
 title:  "Jekyll from the Back"
 date:   2021-05-22 00:15:33 +0200
-categories: jekyll update
+categories: Blog
 ---
 So, die Frage ist. Wie sieht eig. das von Jekyll aus wenn man damit arbeitet. 
 Dafür hab ich mal einen Screen gemacht von meiner VSCode Ansicht!  

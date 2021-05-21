@@ -12,7 +12,7 @@ Wie ihr sehen könnt ist das ganze in 3 Bereiche aufgeteilt:
 "_posts"  
 "assets"  
 
-und der Rest im Root. 
+und der Rest im Root.  
 Für neue Posts erstelle ich im "_posts" Ordner einfach eine Datei im Format meiner Wahl, bisher sind es nur Markdown Dateien. 
 In der Form JJJJ-MM-TT-titel-und-so.FORMAT 
 Dann schreibt Ihr einen Post in der Form wie im Screenshot sichtbar.

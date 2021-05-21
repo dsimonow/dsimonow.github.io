@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A blog! Who knows what will end up on here. Probably a bunch of UE4 stuff,
   general gamedev, programming and game related stuff! 
 baseurl: /dsimonow.github.io # the subpath of your site, e.g. /blog
-url: "https://dsimonow.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jukebaum
 github_username:  dsimonow
 

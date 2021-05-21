@@ -1,29 +1,19 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Init!"
 date:   2021-05-21 23:36:33 +0200
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+The Init Post. After a little push and shove I got a little blog running and not yet sure what will be posted here yet but Github Pages was something I wanted to try out atleast once and
+it does look promising.
+I used the [Github Docs][setting-up] for Github Pages to set this up. Pretty straight forward, give it a go if you too wanna make a quick blog and start writing!
+This Blog runs on [Jekyll][jekyll-page] which also looks promising.
+I still need to look into what theme and plugins I am gonna use and what this can do but a completely free hosting offering with a not even shitty default URL sounds good to me!
 
-Jekyll requires blog post files to be named according to the following format:
+Well lets see what this thing can do!
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
+[jekyll-page]: https://jekyllrb.com/
+[setting-up]: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/

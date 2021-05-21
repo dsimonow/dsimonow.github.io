@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Init!"
-date:   2021-05-21 23:38:33 +0200
-categories: Blog
+categories: 
+  - Blog
 tags:
   - Post Formats
 ---

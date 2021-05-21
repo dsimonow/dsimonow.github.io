@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Jekyll from the Back"
-date:   2021-05-22 00:15:33 +0200
-categories: Blog
+categories: 
+  - Blog
 tags:
   - Post Formats
 ---

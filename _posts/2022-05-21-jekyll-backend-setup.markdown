@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 So, die Frage ist. Wie sieht eig. das von Jekyll aus wenn man damit arbeitet. 
 Dafür hab ich mal einen Screen gemacht von meiner VSCode Ansicht!  
-![Jekyll VSCode](/assets/jekyllpost.PNG)
+![Jekyll VSCode]({{ site.baseurl }}/_posts/assets/jekyllpost.PNG)
 
 Wie ihr sehen könnt ist das ganze in 3 Bereiche aufgeteilt:  
 "_posts"  

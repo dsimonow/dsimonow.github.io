@@ -29,7 +29,7 @@ twitter_username: jukebaum
 github_username:  dsimonow
 
 # Build settings
-theme: theme: minimal-mistakes-jekyll
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-include-cache

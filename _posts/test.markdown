@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Init!"
+title:  "Init! duh"
 date:   2021-05-21 23:36:33 +0200
 categories: jekyll update
 ---

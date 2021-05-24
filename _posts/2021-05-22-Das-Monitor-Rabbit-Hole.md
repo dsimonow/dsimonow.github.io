@@ -5,6 +5,7 @@ categories:
 tags:
   - Post Formats
 ---
+
 Zeit für einen neuen Monitor, doch was ist aktuell der Standard. Was ist möglich und was sollte ich mir holen!
 In diesem Blog Post dokumentiere ich die Erfahrungen die ich sammeln konnte und wie ich den Stand der Monitore 2021 so finde.  
 
